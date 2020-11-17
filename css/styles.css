@@ -23,7 +23,7 @@ a {
 h1,
 h2,
 h3 {
-  padding-bottom: 20px;
+  padding-bottom: 0;
 }
 
 p {
@@ -38,7 +38,7 @@ p {
 } */
 
 .text-primary {
-  color: #f7c08a;
+  color: #f3a75b;
 }
 
 /* BARRA DE NAVEGACIÓN */
@@ -160,3 +160,26 @@ p {
 }
 
 /* ESTILOS FEATURES */
+.box{
+  float: left;
+  width: 33.3%;
+  padding: 50px;
+  text-align: center;
+}
+
+.bg-light{
+  background-color: rgb(226, 224, 224);
+}
+
+/* ESTILOS FOOTER */
+
+#main-footer{
+  text-align: center;
+  background-color: #333;
+  color:white;
+  min-height: 5em;
+}
+
+#main-footer p{
+  margin: 0;
+}
