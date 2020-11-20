@@ -1,8 +1,8 @@
 # Landing page: Hotel HRM
 ## Autor: Efraín Fernando Bejarano Puentes
 
-El presente proyecto es una página web (*landing page*) para un sitio de hotel con el *handicap* de no implementar ni **FlexBox** ni **Grid** para el *layout*. Esto tiene la finalidad de presentar los distintos elementos que se pueden utilizar a la hora de hacer *layouts* en las páginas web, así como también presentar las ventajas que tienen las metodologías modernas de CSS previamente mencionadas.<br>
+This project is a web page (*landing page*) for a hotel site with the handicap of not implementing neither **FlexBox** nor **Grid** for the layout. This has the purpose of presenting the different elements that can be used when making layouts on web pages, as well as presenting the advantages that the modern CSS methodologies previously mentioned have.
 
-Este proyecto no tiene complejidad alguna, si se desea ver algo más elaborado por favor consultar los proyectos con algún *framework* como Bootstrap o verificar los sitios hechos en PHP + Laravel, Angular o algún otro *framework* moderno para el desarrollo web en *frontend*. <br>
+This project has no complexity, if you want to see something more elaborate please consult the projects with a *framework* such as Bootstrap or check the sites made in PHP + Laravel, Angular or some other modern framework for frontend web development.
 
-Por favor revisar el portafolio general para navegar a través de las dinstintas categorías.
+Please review the general portfolio to navigate through the various categories.
