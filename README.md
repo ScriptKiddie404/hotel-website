@@ -1,5 +1,4 @@
 # Landing page: Hotel HRM
-## Autor: Efraín Fernando Bejarano Puentes
 
 This project is a web page (*landing page*) for a hotel site with the handicap of not implementing neither **FlexBox** nor **Grid** for the layout. This has the purpose of presenting the different elements that can be used when making layouts on web pages, as well as presenting the advantages that the modern CSS methodologies previously mentioned have.
 
